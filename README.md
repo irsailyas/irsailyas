@@ -4,5 +4,34 @@
 - 💞️ I’m looking to collaborate on Urdu DBpedia
 - 📫 How to reach me irsamalik108@gmail.com                                                                                                                                                                                                  
 - **Languages**
--         Native: Urdu                                                                                                                                                             Conversational: English                                                                                                                                                                              
--  **Educational Background**                                                                                                                                                      BSCS | University of Sargodha 2018-2022 | 3.28 CGPA                                                                                                                      ICS  | Punjab College Naushera (Khushab) | 84%                                                                                                                            Matriculation | Jinnah Grammer School Naushera (khushab) | 86%                                                                                                            
+-         Native: Urdu   
+-         Conversational: English         
+-  **Educational Background** 
+-                  BSCS | University of Sargodha 2018-2022 | 3.28 CGPA
+-                  ICS  | Punjab College Naushera (Khushab) | 84% 
+-                  Matriculation | Jinnah Grammer School Naushera (khushab) | 86%
+-  **Work History**
+-                 _Urdu DBpedia _
+-                             Departmental Project| Final Year Project
+-                             Urdu mapping of classes, datatypes and properties  
+-                             RDF Triples of ontology
+-                                                         
+-                _Object Oriented Analysis and Design_
+-                             Design document of Online grocery store
+-                _3D Project_
+-                             3D cartoon models
+-                             Product Model
+-                             Sculpted Models
+-                _MS office_
+-                             MS word
+-                             MS excel
+-                             MS powerpoint
+-               _Programming Languages_
+-                             C++
+-                             SQL|PHP
+-                             HTML5|CSS
+-                             Java
+-                             Python
+-                             Android app development
+-  **Expertise**
+-                         
