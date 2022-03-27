@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Urdu DBpedia
 - 📫 How to reach me
 -             irsamalik108@gmail.com   
--             +92 305 1562969                                                                                                                                                                                               
+-             +92 305 1562969                                                                                                                                         
 - **Languages**
 -         Urdu (Native) | English (Conversational)      
 -  **Educational Background** 
