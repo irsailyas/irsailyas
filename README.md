@@ -2,4 +2,7 @@
 - 👀 I’m interested in Learning new Things
 - 🌱 I’m currently learning about Amazon Virtual Assistant
 - 💞️ I’m looking to collaborate on Urdu DBpedia
-- 📫 How to reach me irsamalik108@gmail.com
+- 📫 How to reach me irsamalik108@gmail.com                                                                                                                                                                                                  
+- **Languages**
+-         Native: Urdu                                                                                                                                                             Conversational: English                                                                                                                                                                              
+-  **Educational Background**                                                                                                                                                      BSCS | University of Sargodha 2018-2022 | 3.28 CGPA                                                                                                                      ICS  | Punjab College Naushera (Khushab) | 84%                                                                                                                            Matriculation | Jinnah Grammer School Naushera (khushab) | 86%                                                                                                            
